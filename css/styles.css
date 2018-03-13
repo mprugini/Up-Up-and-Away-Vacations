@@ -15,16 +15,15 @@ p {
 }
 
 .margin {
-	margin-bottom: 45px;
+	margin-bottom: 40px;
 }
 
 .container-fluid {
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 30.5px;
 }
 
 .bg-2{
-	padding-bottom: 150px;
 }
 
 .bg-3 {
@@ -33,13 +32,10 @@ p {
 }
 
 .fa {
-	font-size: 24px;
-	width: 30px;
-	height:30px;
-	text-align: center;
-	text-decoration: none;
-	margin: 10px;
-	border-radius: 60%;
+	display: inline-block;
+	border-radius: 70px;
+	box-shadow: 0px 0px 2px #888;
+	padding: 0.7em 0.87em;
 }
 
 .fa-facebook {
