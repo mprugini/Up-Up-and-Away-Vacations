@@ -1,0 +1,59 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	color:white;
+	/* The image used */
+    background: url("../images/background_image.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+p {
+	font-size: 16px;
+}
+
+.margin {
+	margin-bottom: 45px;
+}
+
+.container-fluid {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.bg-2{
+	padding-bottom: 150px;
+}
+
+.bg-3 {
+	background-color: #5bcaea; /* Black Gray */
+	color: #fff;
+}
+
+.fa {
+	font-size: 24px;
+	width: 30px;
+	height:30px;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	border-radius: 60%;
+}
+
+.fa-facebook {
+	background: white;
+	color: #5bcaea;
+}
+
+.fa-linkedin {
+	background: white;
+	color: #5bcaea;
+}
+
+.fa-instagram {
+	background: white;
+	color: #5bcaea;
+}
+
